@@ -62,7 +62,7 @@ Adding numbers or words to a list
 
 الصق الكود
 
- run شغل السكربت 
+ شغل السكربت 
 
 
 
